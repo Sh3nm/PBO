@@ -1,0 +1,27 @@
+public class Operasi {
+    
+    // Metode untuk penjumlahan
+    public double tambah(double a, double b) {
+        return a + b;
+    }
+    
+    // Metode untuk pengurangan
+    public double kurang(double a, double b) {
+        return a - b;
+    }
+    
+    // Metode untuk perkalian
+    public double kali(double a, double b) {
+        return a * b;
+    }
+    
+    // Metode untuk pembagian
+    public double bagi(double a, double b) {
+        if (b != 0) {
+            return a / b;
+        } else {
+            System.out.println("Error: Pembagian dengan nol tidak diperbolehkan!");
+            return 0; // Mengembalikan 0 jika pembagi nol
+        }
+    }
+}

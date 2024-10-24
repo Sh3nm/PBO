@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ initializeMenu()
+comment3.params=
+comment3.target=void\ displayMainMenu()
+comment4.params=
+comment4.target=void\ displayAvailableMenu()
+comment5.params=
+comment5.target=void\ tambahPesanan()
+comment6.params=
+comment6.target=void\ hapusPesanan()
+comment7.params=
+comment7.target=void\ prosesPembayaran()
+comment8.params=prompt
+comment8.target=int\ getIntInput(java.lang.String)
+comment9.params=prompt
+comment9.target=double\ getDoubleInput(java.lang.String)
+numComments=10

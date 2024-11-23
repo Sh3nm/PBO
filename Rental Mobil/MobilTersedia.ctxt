@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MobilTersedia
+comment1.params=nama\ tipe
+comment1.target=MobilTersedia(java.lang.String,\ java.lang.String)
+numComments=2
